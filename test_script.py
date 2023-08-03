@@ -1,6 +1,6 @@
 import requests
 
-url = "http://localhost:8000"
+url = "http://localhost:5000"
 
 def test_register_user():
     endpoint = "/api/register"
